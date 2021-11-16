@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "basic",
+        "text": "Good timeOfDay firstName, and welcome to hotel! Room roomNumber is now ready for you. Enjoy your stay, and let us know if you need anything."
+    },
+    {
+        "id": 2,
+        "name": "surnames",
+        "text": "Good timeOfDay Mx. lastName, and welcome to hotel! Room roomNumber is now ready for you. Enjoy your stay, and let us know if you need anything."
+    },
+    {
+        "id": 3,
+        "name": "checkout",
+        "text": "Good timeOfDay! Room roomNumber is ready for you. Checkout is checkOut. Enjoy your stay!"
+    }
+]
